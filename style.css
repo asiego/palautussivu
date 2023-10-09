@@ -1,0 +1,7 @@
+h1 {
+    
+color: orange;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block; /* This is required for vertical alignment to work */
+}
