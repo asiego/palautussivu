@@ -1,0 +1,25 @@
+html{background-color: forestgreen;}
+h1{color: yellowgreen; background-color: green}
+h2{color: yellowgreen;}
+p{color: white;}
+ul{color: white;}
+#kuvateksti{text-align: center;}
+img{width: 400px; max-width: 100%;}
+img{margin: auto}
+body{max-width: 700px; margin: auto; }
+body{text-align: center}
+#viherio {}
+figure{margin: 25px; 
+    width: 300px; 
+    max-width: 100%; 
+    align-items: middle;
+}
+.kuvalaatikko {display: flex; 
+    flex-wrap: flex;
+}
+
+figcaption{color: white}
+img{height: 300px; height: 300px; align-content: middle;}
+header{font-size: 25px; color: white;}
+footer{font-size: 10px; color: white; margin:50px ;}
+li{color: white}
